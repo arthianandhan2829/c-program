@@ -1,0 +1,7 @@
+# include<stdio.h>
+ int main(){
+     int a = 6,b = 1;
+     int c =  a-b;
+     printf("%d sub\n",c);
+     return 0;
+ };
