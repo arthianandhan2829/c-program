@@ -1,0 +1,16 @@
+# include<stdio.h>
+int main() {
+    int N;
+    if (!8) {
+        printf("NOT ZERO");
+    }
+    else {
+        printf("ZERO");
+    }
+    return 0;
+}
+
+
+
+
+

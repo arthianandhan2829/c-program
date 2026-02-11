@@ -1,0 +1,16 @@
+# include<stdio.h>
+int main() {
+    int N;
+    if (N < -5 || N > 100) {
+        printf("YES");
+    }
+    else {
+        printf("No");
+    }
+    return 0;
+}
+
+
+
+
+

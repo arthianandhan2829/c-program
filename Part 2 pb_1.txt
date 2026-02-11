@@ -1,0 +1,14 @@
+# include<stdio.h>
+int main() {
+    int N,X;
+    printf("enter the number:");
+    scanf("%d%d",&N,&X);
+    N += X;
+    printf("%d",N);
+    return 0;
+}
+
+
+
+
+

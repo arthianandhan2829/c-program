@@ -1,0 +1,6 @@
+# include <stdio.h>
+int main() {
+    int A = 20/5+3*4-2;
+    printf("%d",A);
+    return 0;
+}
